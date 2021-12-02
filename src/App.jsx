@@ -335,10 +335,8 @@ function App() {
           <div className="dao-battle">
             <h1 className="thaleahFat">Psychics vs Alchemists </h1>
             <h2 className="thaleahFat">
-              Get ready for the Future Battle! The first Dao game of its kind.
-              <br />
-              Depending on which of these NFTs you hold, you receive access to
-              different areas of the game and different VP (voting power)
+              Depending on which type of Future Punk you hold, you gain access
+              to different areas of the game and different VP’s (voting power)
             </h2>
             <div className="dao-grid">
               <div className="dao-grid-cell">
@@ -347,6 +345,7 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for short term flips</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
+                  <li className="thaleahFat">- Stake to earn $GIN per day</li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -358,6 +357,7 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for long term holds</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
+                  <li className="thaleahFat">- Stake to earn $JUICE per day</li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -377,26 +377,30 @@ function App() {
               </div>
             </div>
             <h2 className="thaleahFat">
-              Psychic- and Alchemist Punkz each have their own wallet.{" "}
+              Psychic Punkz have the power to buy and flip.{" "}
             </h2>
             <h2 className="thaleahFat">
-              Legendary Monkz can choose on which site they stand.
+              Alchemist Punkz have the power to buy and hold.
             </h2>
             <h2 className="thaleahFat">
-              The V2 collection will be added to the game later on.{" "}
+              Legendary Monkz have the power to pick a side{" "}
             </h2>
             <br />
             <br />
             <p className="thaleahFat">
-              Q4 2022 we will compare which strategy was more successful.
+              The goal is to have more in your wallet than the other team by the
+              end of the game.
               <br />
-              The winner gets to decide what happens next with the combined
-              funds.
+              Small battles and attacks gives your team the opportunity to
+              challenge the others and steal from them.
               <br />
-              This is a unique game and an experiment.
+              The winner gets the right over both wallets.
               <br />
-              You can buy bluechips, big projects, small projects, crypto
-              currencies and/or meta verse land.
+              We will not only focus on buying NFTs but also on crypto
+              currencies and metaverse land.
+              <br />
+              Share your best alpha with your tribe, strategize and raise the
+              value of your token.
             </p>
             <br />
             <br />
