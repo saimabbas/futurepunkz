@@ -303,7 +303,7 @@ function App() {
       </div>
 
       {/* Hero Banner */}
-      <img id="sectionHome" src={HeroBanner} className="hero-banner" alt="" />
+      {/* <img id="sectionHome" src={HeroBanner} className="hero-banner" alt="" /> */}
       {/* Hero Section */}
       <div className="hero section " id="section1">
         <div className="box">

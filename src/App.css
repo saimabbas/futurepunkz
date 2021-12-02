@@ -186,7 +186,7 @@ button {
   justify-content: flex-end;
 }
 .header-content a {
-  font-size: 1.75rem;
+  font-size: 1.95rem;
   color: var(--bgc);
   font-weight: 500;
   margin: 0 0 0 3.5rem;
@@ -246,7 +246,7 @@ button {
   text-align: center;
 }
 .hero-content h2 {
-  font-size: 1.75rem;
+  font-size: 1.95rem;
   font-weight: 400;
   color: var(--gray);
 }
@@ -256,7 +256,7 @@ button {
   margin: 3.5rem 0;
 }
 .hero-content h3 {
-  font-size: 2.5rem;
+  font-size: 2.65rem;
   font-weight: 600;
   color: var(--black);
 }
@@ -264,7 +264,7 @@ button {
   margin: 2.5rem 0;
 }
 .hero-content h4 {
-  font-size: 3rem;
+  font-size: 3.25rem;
   font-weight: 600;
 }
 .hero-content h4 i {
@@ -457,18 +457,18 @@ button {
 }
 .roadmap-box h4 {
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.65rem;
   color: var(--white);
   position: relative;
   margin: 0 0 0.5rem 0;
 }
 .roadmap-box p {
-  font-size: 1.75rem;
+  font-size: 1.85rem;
   color: var(--white);
   margin: 0.75rem 0 0 0;
 }
 .mainSubHeading {
-  font-size: 1.75rem;
+  font-size: 1.85rem;
   font-weight: 500;
   color: var(--black);
   width: 100%;
@@ -580,14 +580,14 @@ button {
   padding: 1rem 1.5rem;
 }
 .team-box h6 {
-  font-size: 2.5rem;
+  font-size: 2.65rem;
   font-weight: 700;
   color: var(--white);
   width: 100%;
   margin: 0 0 0.5rem 0;
 }
 .team-box h5 {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   font-weight: 400;
   color: var(--white);
   width: 100%;
@@ -614,7 +614,7 @@ button {
   margin: 0 1.25rem;
 }
 .footer p {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   color: var(--black);
   /* margin: 0.75rem 0 0 0; */
   opacity: 0.75;
@@ -649,13 +649,13 @@ button {
   color: var(--black);
 }
 .story-grid-right h1 {
-  font-size: 2.5rem;
+  font-size: 2.65rem;
   font-weight: 600;
   margin: 0 0 0.75rem 0;
   text-align: center;
 }
 .story-grid-right p {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   font-weight: 400;
   opacity: 0.75;
   margin: 0 0 2.5rem 0;
@@ -663,14 +663,14 @@ button {
 }
 /* DAO Battle Section */
 .dao-battle h1 {
-  font-size: 2.5rem;
+  font-size: 2.65rem;
   font-weight: 600;
   color: var(--black);
   margin: 0 0 1.5rem 0;
   text-align: center;
 }
 .dao-battle h2 {
-  font-size: 1.75rem;
+  font-size: 1.95rem;
   font-weight: 500;
   color: var(--black);
   opacity: 0.75;
@@ -688,7 +688,7 @@ button {
   width: 100%;
 }
 .dao-grid ul li {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   color: var(--black);
   width: 100%;
   text-align: center;
@@ -700,14 +700,14 @@ button {
   list-style: none;
 }
 .dao-grid h3 {
-  font-size: 2.25rem;
+  font-size: 2.45rem;
   font-weight: 600;
   color: var(--black);
   text-align: center;
   margin: 0.75rem 0;
 }
 .dao-battle p {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   font-weight: 400;
   text-align: center;
   color: var(--black);
@@ -792,7 +792,7 @@ button {
   }
   .mainHeading {
     margin: 0 0 3.5rem 0;
-    font-size: 2.75rem;
+    font-size: 2.95rem;
   }
   .mainHeading::before {
     width: 5rem;
@@ -879,7 +879,7 @@ button {
   }
   .about-content p {
     font-weight: 500;
-    font-size: 1.75rem;
+    font-size: 1.85rem;
   }
   .roadmap-box p {
     font-weight: 400;
