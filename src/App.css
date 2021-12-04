@@ -212,6 +212,7 @@ button {
 {
  margin: 0;
  max-width: 40%;
+ object-fit: contain;
 }
 .hh-before {
   width: 7.5rem;
