@@ -34,6 +34,7 @@ import Icon3 from "./assets/icon3.svg";
 import Space from "./assets/black.jpg";
 import HeroBanner from "./assets/website-banner-2.jpg";
 import Logo from "./assets/logo.png";
+import Logo1 from "./assets/logo.png";
 import Gif from "./assets/gif-future.gif";
 
 import { Power4, Linear } from "gsap/dist/gsap";
@@ -308,7 +309,8 @@ function App() {
       <div className="hero section " id="section1">
         <div className="box">
           <div className="hero-content">
-            <h1 className="mainHeading">Future Punkz Genesis</h1>
+            <img src={Logo1} alt="" className="hero-heading-img"/>
+            <div className="hh-before"></div>
             <h2 className="thaleahFat">
               4444 Psychics and Alchemists battle for Utopia, the holy land of
               decentralization and financial freedom.
