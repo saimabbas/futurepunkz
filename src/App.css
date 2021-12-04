@@ -211,7 +211,7 @@ button {
 .hero-content .hero-heading-img
 {
  margin: 0;
- max-width: 40%;
+ max-width: 80%;
  object-fit: contain;
 }
 .hh-before {
@@ -256,7 +256,7 @@ button {
   justify-content: center;
   margin: 0 auto;
   text-align: center;
-  padding: 2.5rem 0 0 0;
+  padding: 4rem 0 0 0;
 }
 .hero-content h2 {
   font-size: 2.15rem;
@@ -720,7 +720,7 @@ button {
   margin: 0.75rem 0;
 }
 .dao-battle p {
-  font-size: 1.75rem;
+  font-size: 2.15rem;
   font-weight: 400;
   text-align: center;
   color: var(--black);
