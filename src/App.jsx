@@ -347,7 +347,7 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for short term flips</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
-                  <li className="thaleahFat">- Stake to earn $GIN per day</li>
+                  <li className="thaleahFat">- Stake to earn 10 $GIN per day</li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -359,7 +359,7 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for long term holds</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
-                  <li className="thaleahFat">- Stake to earn $JUICE per day</li>
+                  <li className="thaleahFat">- Stake to earn 10 $JUICE per day</li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -374,7 +374,7 @@ function App() {
                   <li className="thaleahFat">- Free mintpass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- more special perks</li>
-                  <li className="thaleahFat">- Supply: 56</li>
+                  <li className="thaleahFat">- Supply: 54</li>
                 </ul>
               </div>
             </div>
