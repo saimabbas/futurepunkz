@@ -262,10 +262,10 @@ function App() {
                 Mint
               </a>
               <a onClick={moveTo2} className="mt mt4">
-                DAO Game
+                Revolution
               </a>
               <a onClick={moveTo3} className="mt mt3">
-                Story
+                DAO Game
               </a>
               <a onClick={moveTo4} className="mt mt5">
                 Roadmap
@@ -286,10 +286,10 @@ function App() {
                   Mint
                 </a>
                 <a onClick={moveTo2Mob} className="mt mt4">
-                  DAO Game
+                  Revolution
                 </a>
                 <a onClick={moveTo3Mob} className="mt mt3">
-                  Story
+                  DAO Game
                 </a>
                 <a onClick={moveTo4Mob} className="mt mt5">
                   Roadmap
@@ -309,7 +309,7 @@ function App() {
       <div className="hero section " id="section1">
         <div className="box">
           <div className="hero-content">
-            <img src={Logo1} alt="" className="hero-heading-img"/>
+            <img src={Logo1} alt="" className="hero-heading-img" />
             <div className="hh-before"></div>
             <h2 className="thaleahFat">
               4444 Psychics and Alchemists battle for Utopia, the holy land of
@@ -323,15 +323,69 @@ function App() {
             <img src={Gif} alt="" />
             <h3 className="thaleahFat">Mint price: 0.03 ETH + Gas</h3>
             <button className="button thaleahFat">
-              The presale starts in:
+              The Presale starts in:
             </button>
-            <h4 id="timer" className="thaleahFat"></h4>
+            <h4 id="timer" class="thaleahFat"></h4>
+          </div>
+        </div>
+      </div>
+
+      {/* Story Section */}
+      <div className="about section" id="section2">
+        <div className="box">
+          <h2 className="mainHeading">THE REVOLUTION</h2>
+          <div className="story-grid">
+            <div className="story-grid-left">
+              <main>
+                <img src={Story1} alt="" />
+                <img src={Story8} alt="" />
+                <img src={Story9} alt="" />
+                <img src={Story7} alt="" />
+                <img src={Story3} alt="" />
+                <img src={Story5} alt="" />
+                <img src={Story2} alt="" />
+                <img src={Story4} alt="" />
+                <img src={Story6} alt="" />
+              </main>
+            </div>
+            <div className="story-grid-right">
+              {/* <h1 className="nebula">THE STORY</h1> */}
+
+              <p className="thaleahFat">
+                We are the Punkz of the future. We are the ones that represent
+                the true values of decentralization, community and freedom. We
+                gonna do it with spirit, self believe and love. We have a game
+                concept, tokenomics, roadmap and all that. But our true utility
+                is the power of the soul! The power of believing in ourselves!
+                This is our team. A few crazy people. All different in their own
+                aspects. Different nations, different backgrounds, status,
+                colors, age, gender etc. etc. This here is our revolution. This
+                DAO is a home for all the ones that want to make a change in
+                their life and this world. This collection is the start of
+                something greater. An ecosystem, a launchpad, a creative space
+                and a place to vibe with frens. <br />
+                <br />
+                <br />
+                When we fall we get back up and continue building. When we
+                succeed we keep walking and continue building. We play the game
+                by our own rules.This is the DAO of the people that believe in a
+                future of unity, financial freedom, creativity ,equality and
+                love.
+                <br />
+                <br />
+                <br />
+              </p>
+              <h6 className="thaleahFat">
+                Every member of our team is contributing to turn this vision to
+                reality. Welcome to da revolution.
+              </h6>
+            </div>
           </div>
         </div>
       </div>
 
       {/* DAO Battle Section */}
-      <div className="species section" id="section2">
+      <div className="species section" id="section3">
         <div className="box">
           <h2 className="mainHeading">THE DAO GAME</h2>
           <div className="dao-battle">
@@ -347,7 +401,9 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for short term flips</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
-                  <li className="thaleahFat">- Stake to earn 10 $GIN per day</li>
+                  <li className="thaleahFat">
+                    - Stake to earn 10 $GIN per day
+                  </li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -359,7 +415,9 @@ function App() {
                 <ul>
                   <li className="thaleahFat">- VP for long term holds</li>
                   <li className="thaleahFat">- VP for planet proposals</li>
-                  <li className="thaleahFat">- Stake to earn 10 $JUICE per day</li>
+                  <li className="thaleahFat">
+                    - Stake to earn 10 $JUICE per day
+                  </li>
                   <li className="thaleahFat">- Whitelist pass for V2</li>
                   <li className="thaleahFat">- Access to Utopia metaverse</li>
                   <li className="thaleahFat">- Supply: 2195</li>
@@ -411,62 +469,6 @@ function App() {
         </div>
       </div>
 
-      {/* Story Section */}
-      <div className="about section" id="section3">
-        <div className="box">
-          <h2 className="mainHeading">STORY</h2>
-          <div className="story-grid">
-            <div className="story-grid-left">
-              <main>
-                <img src={Story1} alt="" />
-                <img src={Story8} alt="" />
-                <img src={Story9} alt="" />
-                <img src={Story7} alt="" />
-                <img src={Story3} alt="" />
-                <img src={Story5} alt="" />
-                <img src={Story2} alt="" />
-                <img src={Story4} alt="" />
-                <img src={Story6} alt="" />
-              </main>
-            </div>
-            <div className="story-grid-right">
-              {/* <h1 className="nebula">THE STORY</h1> */}
-              <h1 className="thaleahFat">Battle for Utopia</h1>
-              <p className="thaleahFat">
-                In the mountains of Nepal, a cave was discovered, holding the
-                story of 4 legendary Monkz… <br />
-                It is said that they were so wise, they created a city where
-                people lived in harmony with their finances, decentralized from
-                authority. UTOPIA. <br />
-                <br />
-                The true history of the Monkz has long been forgotten, but
-                legends and rumors of a portal that leads to their world have
-                been part of many cultures’ lore for thousands of years. Some
-                call it the vault of time. Every time the vault opens, a war
-                breaks out between the world’s most powerful tribes to claim the
-                right to enter the lost valley of WGMI and gain access to the
-                secret riches of Utopia.
-                <br />
-                <br />
-                In the year 4444, the portal opened and war broke out once
-                again. Two great factions rose, The Psychic Punkz and the
-                Alchemist Punkz. Which tribe will make it to the city of Utopia
-                in the Monkz metaverse?
-                <br />
-                <br />
-                Psychic Punkz possess the power of seeing the short-term future
-                and therefore are excellent at fast decisions and flipping.
-                Alchemist Punkz rely on their patience and conviction and
-                therefore can calculate what projects will prevail long-term.
-                <br />
-                <br />
-                CHOOSE YOUR TRIBE.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
       {/* Roadmap */}
       <div className="roadmap section" id="section4">
         <div className="box">
@@ -482,6 +484,8 @@ function App() {
                   4444 Future Punkz Genesis will be released to the blockchain.
                   <br />
                   Alchemists, Psychics and Legendary Monkz enter the metaverse.
+                  <br />
+                  23K GIVEAWAY
                 </p>
               </div>
               <main></main>
@@ -504,7 +508,7 @@ function App() {
                   of your choice.
                   <br />
                   We can also add something from the DAO wallet if you feel
-                  generous;)
+                  generous;
                 </p>
               </div>
               <main></main>
@@ -513,12 +517,15 @@ function App() {
               <div className="roadmap-box">
                 <h4 className="thaleahFat">- NEXT LEVEL -</h4>
                 <p className="thaleahFat">
-                  Time to expand the battle and create something unique.
+                  V2 collection for the DAO by the DAO. We will lock down the
+                  discord and Future Genesis Punkz holders will conspire with
+                  our artists to create an amazing new anime style project.
                   <br />
-                  Future Punkz DAO members and artists will conspire to create
-                  our v2 collection.
+                  V2 to the world! This collection will expand the game and the
+                  DAO.
                   <br />
-                  One word: Anime.
+                  We are going to allocate a big part of these mint funds to the
+                  Dao wallet.
                 </p>
               </div>
               <main></main>
